@@ -1,6 +1,4 @@
 {
   "name": "Tank 3",
-  "min": "0",
-  "max": "100",
-  "level": "63"
+  "test": "Meassage"
 }
